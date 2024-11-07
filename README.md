@@ -22,8 +22,8 @@ https://github.com/user-attachments/assets/6ff1ccbe-0a4b-4706-a87d-795d598ef446
 The network's predictions are drawn in cyan. The orange trajectory depicts the ground-truth.
 
 <p align="center">
-<a href="assets/prediction-example.png" target="_blank">
-<img src="assets/prediction-example.png" width=700px>
+<a href="assets/prediction-example.jpg" target="_blank">
+<img src="assets/prediction-example.jpg">
 </a>
 </p>
 
