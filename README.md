@@ -14,6 +14,11 @@ I have developed it as my Bachelor's thesis project (Grade 1.0):
 ## Demo
 See the neural network in action: It predicts the future motions for all road users in the scene. It first makes 6 predictions and then selects the most probable of them. 
 
+
+https://github.com/user-attachments/assets/6ff1ccbe-0a4b-4706-a87d-795d598ef446
+
+
+
 The network's predictions are drawn in cyan. The orange trajectory depicts the ground-truth.
 
 <p align="center">
