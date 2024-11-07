@@ -3,13 +3,24 @@
 ## Summary
 
 A Transformer neural network for autonomous driving to predict the future behavior of surrounding road users.
-In contrast to previous state-of-the-art approaches, it makes the encoded interactions between agents more interpretable and guarantees that its predictions adhere to the physics of motion.
-I have developed it as my Bachelor's thesis project (Grade 1.0).
-You can find the full thesis here: [Bachelor-Thesis_Marius-Baden.pdf](assets/bachelor-thesis_marius-baden_feasible-interpretable-trajectory-prediction.pdf).
+It makes encoded interactions more interpretable and guarantees that its predictions adhere to physics.
+<!-- In contrast to previous state-of-the-art approaches, it makes the encoded interactions between agents more interpretable and guarantees that its predictions adhere to the physics of motion. -->
+
+I have developed it as my Bachelor's thesis project (Grade 1.0):
+[thesis.pdf](assets/bachelor-thesis_marius-baden_feasible-interpretable-trajectory-prediction.pdf).
 
 
 
 ## Demo
+See the neural network in action: It predicts the future motions for all road users in the scene. It first makes 6 predictions and then selects the most probable of them. 
+
+The network's predictions are drawn in cyan. The orange trajectory depicts the ground-truth.
+
+<p align="center">
+<a href="assets/prediction-example.png" target="_blank">
+<img src="assets/prediction-example.png" width=700px>
+</a>
+</p>
 
 
 ## Description
@@ -46,6 +57,10 @@ like the social force model for modeling interactions and kinematic models for p
 realism. However, these approaches do not evaluate the impact of the added expert knowledge
 on the network’s interpretability and mainly focus on priors that either suit vehicles or pedestrians
 but do not generalize to all agent types.
+
+<p align="center">
+<img src="assets/trajectory-prediction-scene.png" width=400px>
+</p>
 
 
 ### Method
