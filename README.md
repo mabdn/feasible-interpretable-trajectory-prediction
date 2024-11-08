@@ -26,6 +26,11 @@ The network's predictions are drawn in cyan. The orange trajectory depicts the g
 <img src="assets/prediction-example.jpg">
 </a>
 </p>
+<p align="center">
+<a href="assets/prediction-example-2.jpg" target="_blank">
+<img src="assets/prediction-example-2.jpg">
+</a>
+</p>
 
 
 ## Description
