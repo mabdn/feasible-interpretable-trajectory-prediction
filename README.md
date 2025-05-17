@@ -9,7 +9,7 @@ It makes encoded interactions more interpretable and guarantees that its predict
 I have developed it as my bachelor's thesis project (Grade 1.0):
 [thesis.pdf](assets/bachelor-thesis_marius-baden_feasible-interpretable-trajectory-prediction.pdf).
 
-
+I have published the findings of this project as a [conference paper](https://arxiv.org/abs/2505.06743) to IEEE IV 25. There, I was selected for an oral presentation.
 
 ## Demo
 See the neural network in action: It predicts the future motions for all road users in the scene. It first makes 6 predictions and then selects the most probable of them. 
