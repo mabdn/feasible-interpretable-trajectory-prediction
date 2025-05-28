@@ -6,10 +6,10 @@ A Transformer neural network for autonomous driving to predict the future behavi
 It makes encoded interactions more interpretable and guarantees that its predictions adhere to physics.
 <!-- In contrast to previous state-of-the-art approaches, it makes the encoded interactions between agents more interpretable and guarantees that its predictions adhere to the physics of motion. -->
 
-I have developed it as my Bachelor's thesis project (Grade 1.0):
+I have developed it as my bachelor's thesis project (Grade 1.0):
 [thesis.pdf](assets/bachelor-thesis_marius-baden_feasible-interpretable-trajectory-prediction.pdf).
 
-
+I have published the findings of this project as a [conference paper](https://arxiv.org/abs/2505.06743) to IEEE IV 25. There, I was selected for an oral presentation.
 
 ## Demo
 See the neural network in action: It predicts the future motions for all road users in the scene. It first makes 6 predictions and then selects the most probable of them. 
@@ -35,7 +35,7 @@ The network's predictions are drawn in cyan. The orange trajectory depicts the g
 
 ## Description
 
-I developed this network for my Bachelor's thesis during a 6-months part-time (25h/week) position as thesis student at the [FZI Research Center for Information Technology](https://www.fzi.de/).
+I developed this network for my bachelor's thesis "*Prior Knowledge Integration for Feasible and Interpretable Trajectory Prediction*" during a 6-months part-time (25h/week) position as thesis student at the [FZI Research Center for Information Technology](https://www.fzi.de/).
 
 ### Experience Gained
 
