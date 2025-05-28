@@ -97,6 +97,7 @@ our approach ensures that predicted trajectories are both interpretable and kine
 contributing to safer and more reliable trajectory prediction.
 
 <a href="assets/table-comparison-to-sota.png" target="_blank"><img src="assets/table-comparison-to-sota.png"></a>
+
 <a href="assets/table-ablations.png" target="_blank"><img src="assets/table-ablations.png"></a>
 
 
