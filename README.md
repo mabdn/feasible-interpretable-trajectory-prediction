@@ -32,6 +32,13 @@ The network's predictions are drawn in cyan. The orange trajectory depicts the g
 </a>
 </p>
 
+## Presentation at IEEE IV 25
+
+<p align="center">
+<a href="https://www.linkedin.com/posts/marius-baden_ieeeiv2025-activity-7344761685745803264-Yvgo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADF0tAgBdHm1Q8jHdhwHZRjopdi64xwpaDY" target="_blank">
+<img src="assets/ieee-iv-presentation-thumbnail.png" width=600px>
+</a>
+</p>
 
 ## Description
 
